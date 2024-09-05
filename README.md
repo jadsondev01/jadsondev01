@@ -23,7 +23,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsondev01&size_weight=0.5&count_weight=0.5)
 
 
-Apaixonado por tecnologia e inovação.
+Olá! Meu nome é Jadson, tenho 23 anos e moro em Recife. Atualmente, sou desenvolvedor trainee e estou no último período do curso de Análise e Desenvolvimento de Sistemas. Tenho uma grande paixão por dados e automação de processos e rotinas, sempre buscando maneiras de otimizar e melhorar fluxos de trabalho através da tecnologia.
 
+Hello! My name is Jadson, I'm 23 years old, and I live in Recife, Brazil. I'm currently working as a trainee developer, and I'm in the final semester of my Systems Analysis and Development degree. I'm passionate about data and the automation of processes and routines, constantly looking for ways to optimize and improve workflows through technology.
 
 
