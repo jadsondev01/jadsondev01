@@ -6,7 +6,6 @@
 
 ![jadson GitHub stats](https://github-readme-stats.vercel.app/api?username=jadsondev01&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsondev01&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias que uso no meu dia
 
@@ -19,6 +18,9 @@
 <img a ="center" alt ="html5" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img a ="center" alt ="html5" src ="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsondev01&size_weight=0.5&count_weight=0.5)
+
 
 Apaixonado por tecnologia e inovação.
 
