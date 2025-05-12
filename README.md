@@ -22,9 +22,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsondev01&size_weight=0.5&count_weight=0.5)
 
+ Olá! Sou formado em Análise e Desenvolvimento de Sistemas, pós-graduando em Cibersegurança e atualmente cursando MBA em Tecnologias para Negócios com foco em IA, Data Science e Big Data.
 
-Olá! Meu nome é Jadson, tenho 23 anos e moro em Recife. Atualmente, sou desenvolvedor trainee e estou no último período do curso de Análise e Desenvolvimento de Sistemas. Tenho uma grande paixão por dados e automação de processos e rotinas, sempre buscando maneiras de otimizar e melhorar fluxos de trabalho através da tecnologia.
+💡 Apaixonado por tecnologia, trabalho com:
+- ☁️ Cloud (AWS | Azure | GCP)
+- 🐳 Containers & DevOps (Docker, Jenkins, Terraform)
+- 📊 Monitoramento (Zabbix, Prometheus, Grafana)
+- 🔐 Segurança da Informação
 
-Hello! My name is Jadson, I'm 23 years old, and I live in Recife, Brazil. I'm currently working as a trainee developer, and I'm in the final semester of my Systems Analysis and Development degree. I'm passionate about data and the automation of processes and routines, constantly looking for ways to optimize and improve workflows through technology.
+🚀 Aqui você vai encontrar projetos voltados para automação de infraestrutura, scripts de migração, templates de monitoramento e laboratórios de CI/CD.
 
+📫 Contato: [jadsonlfdsilva@recife.pe.senac.br] • [https://www.linkedin.com/in/jadson-ferreira-94465824a/)
+
+#DevOps #CloudComputing #Cybersecurity #IaC #BigData #OpenSource
 
